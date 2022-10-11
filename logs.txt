@@ -1,0 +1,47 @@
+2565.a7f4dfa1b6d37591.js:896 useAccountInfo Object
+2565.a7f4dfa1b6d37591.js:146 getAccountInfo haqq1nekpsmetpxx2crsuzznuy4epv9eqvj030fhgec
+2565.a7f4dfa1b6d37591.js:896 useAccountInfo Object
+2565.a7f4dfa1b6d37591.js:896 useAccountInfo Object
+2565.a7f4dfa1b6d37591.js:896 useAccountInfo Object
+2565.a7f4dfa1b6d37591.js:896 useAccountInfo Object
+2565.a7f4dfa1b6d37591.js:896 useAccountInfo Object
+8316.29c94f3bf2fe7874.js:194 TypeError: Cannot read properties of undefined (reading 'amount')
+    at 2565.a7f4dfa1b6d37591.js:1219:67
+    at Object.Ci [as useMemo] (8316.29c94f3bf2fe7874.js:184:119)
+    at exports.useMemo (2784.00058333ea231f8c.js:30:208)
+    at StakingInfo (2565.a7f4dfa1b6d37591.js:1217:40)
+    at Xh (8316.29c94f3bf2fe7874.js:172:137)
+    at dj (8316.29c94f3bf2fe7874.js:202:258)
+    at Wk (8316.29c94f3bf2fe7874.js:297:88)
+    at Vk (8316.29c94f3bf2fe7874.js:285:389)
+    at Uk (8316.29c94f3bf2fe7874.js:285:320)
+    at Jk (8316.29c94f3bf2fe7874.js:285:180)
+Mi @ 8316.29c94f3bf2fe7874.js:194
+8316.29c94f3bf2fe7874.js:132 Uncaught TypeError: Cannot read properties of undefined (reading 'amount')
+    at 2565.a7f4dfa1b6d37591.js:1219:67
+    at Object.Ci [as useMemo] (8316.29c94f3bf2fe7874.js:184:119)
+    at exports.useMemo (2784.00058333ea231f8c.js:30:208)
+    at StakingInfo (2565.a7f4dfa1b6d37591.js:1217:40)
+    at Xh (8316.29c94f3bf2fe7874.js:172:137)
+    at dj (8316.29c94f3bf2fe7874.js:202:258)
+    at Wk (8316.29c94f3bf2fe7874.js:297:88)
+    at Vk (8316.29c94f3bf2fe7874.js:285:389)
+    at Uk (8316.29c94f3bf2fe7874.js:285:320)
+    at Jk (8316.29c94f3bf2fe7874.js:285:180)
+DevTools failed to load source map: Could not load content for chrome-extension://dmkamcknogkgcdfhhbddcghachkejeap/browser-polyfill.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/utils.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/types.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/index.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/wordlists.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/index.mjs.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/tx.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/index.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/index.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/types.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/index.mjs.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/converter.module.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/staking.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/index.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/index.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/hydration.mjs.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+DevTools failed to load source map: Could not parse content for https://staking-app-git-feat-staking-haqq-network.vercel.app/params.js.map: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
